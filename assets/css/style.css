@@ -1179,6 +1179,10 @@ section {
   background-image: url("../img/ride-4.jpg");
 }
 
+.swiper-slide .hobby-img-5 {
+  background-image: url("../img/ski.png");
+}
+
 /*---------------------------------------------*/
 
 .swiper-slide .film-img-1 {
